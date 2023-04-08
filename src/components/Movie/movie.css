@@ -1,0 +1,9 @@
+.movie-info {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.movie-info-item {
+    font-weight: bold;
+}
